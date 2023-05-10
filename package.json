@@ -1,6 +1,6 @@
 {
   "name": "testrepo",
-  "version": "0.0.1.0.1111222s",
+  "version": "0.0.1.0.1111222ssdsds",
   "private": true,
   "scripts": {
     "dev": "next dev",
