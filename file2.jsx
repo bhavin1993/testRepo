@@ -5,3 +5,4 @@ export default function file2() {
     <div>file2 is good</div>
   )
 }
+hgjukiyu
