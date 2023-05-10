@@ -2,6 +2,6 @@ import React from 'react'
 
 export default function file4() {
   return (
-    <div>file4ssdas</div>
+    <div>file4ssdask</div>
   )
 }
