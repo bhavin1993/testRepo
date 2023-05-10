@@ -1,6 +1,6 @@
 {
   "name": "testrepo",
-  "version": "sd",
+  "version": "0.0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
