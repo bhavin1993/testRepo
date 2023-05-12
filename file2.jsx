@@ -2,6 +2,6 @@ import React from 'react'
 
 export default function file2() {
   return (
-    <div>lie is always beautiful and always painful</div>
+    <div>lie is always beautiful</div>
   )
 }
